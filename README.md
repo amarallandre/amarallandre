@@ -9,7 +9,7 @@ It's a project that simulates an electronic diary. The language used is Node.js/
 
 ![Node.js](https://img.shields.io/badge/Node.js-React-brightgreen)
 
-[[Link to Project](project_link)](https://github.com/amarallandre/AppAgenda)
+[[Link to Project](https://github.com/amarallandre/AppAgenda)
 
 ### Project 2: Jogo(Complete. Maybe?)
 The intention here was to practice my CRUD skills and learn a bit of .NET MVC/C#. I also utilized a significant amount of CSS and JavaScript, which allowed me to further practice front-end development.
