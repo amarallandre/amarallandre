@@ -15,7 +15,7 @@ It's a project that simulates an electronic diary. The language used is Node.js/
 The intention here was to practice my CRUD skills and learn a bit of .NET MVC/C#. I also utilized a significant amount of CSS and JavaScript, which allowed me to further practice front-end development.
 
 
-![ASP.NET](https://img.shields.io/badge/dotnet-C#-brightgreen)
+![ASP.NET](https://img.shields.io/badge/dotnet-C%23-brightgreen)
 [Link to Project](project_link)
 [Live Demo](demo_link)
 
