@@ -1,10 +1,10 @@
 ## About Me
 
-A brief description of who you are, your interest in development, and what you aim to achieve.
+I have 4 years of experience in fast-food. I worked 1 year and a half at McDonald's and 2 years and a half at Burger King. I also worked in logistics, delivering dairy products throughout São Paulo, and as a general assistant in a printing company. There, I had to assist machine operators and in various areas of the factory. Currently, I am unemployed. My source of income is selling products on Mercado Livre. Regarding programming, I have been studying for about 3 years. My first contact with programming was around the age of 11, when my brother and I rewrote the codes of a game and put it online for a while. My goal is to enter the field as a back-end programmer.
 
 ## How to Reach Me
 
-- Email: your_email@example.com
+- Email: andrenascimentoo96@icloud.com
 - LinkedIn: [Andre Nascimento](https://www.linkedin.com/in/andre-nascimento-281bb225b/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 
 ## Featured Projects
