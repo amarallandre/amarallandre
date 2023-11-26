@@ -16,15 +16,22 @@ The intention here was to practice my CRUD skills and learn a bit of .NET MVC/C#
 
 
 ![ASP.NET](https://img.shields.io/badge/dotnet-C%23-brightgreen)
-[Link to Project](project_link)
-[Live Demo](demo_link)
+
+[Link to Project]([project_link](https://github.com/amarallandre/Jogo))
+
+### Project 3: repasse-de-mensagens (Complete)
+It's my first project. The objective here is to create a bot on Telegram that sends messages automatically. The language used is Python.
+
+![Python](https://img.shields.io/badge/Python-brightgreen)
+
+[Link to Project]([[project_link](https://github.com/amarallandre/Jogo)](https://github.com/amarallandre/repasse-de-mensagens))
 
 ## Skills
 
 - Web Development: HTML, CSS, JavaScript
-- Frameworks: React
-- Database: MongoDB
-- Other Skills: Git, GitHub, etc.
+- Back-end: Python, dotnet, Node, c#
+- Frameworks: React 
+- Database: Mysql, Sqlite.
 
 ## About Me
 
