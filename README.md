@@ -1,6 +1,11 @@
-# Personal Portfolio
+## About Me
 
-Welcome to my personal portfolio! Here, you'll find a collection of projects, skills, and a bit about me.
+A brief description of who you are, your interest in development, and what you aim to achieve.
+
+## How to Reach Me
+
+- Email: your_email@example.com
+- LinkedIn: [Andre Nascimento]([linkedin_link](https://www.linkedin.com/in/andre-nascimento-281bb225b/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION))
 
 ## Featured Projects
 
@@ -33,13 +38,6 @@ It's my first project. The objective here is to create a bot on Telegram that se
 - Frameworks: React 
 - Database: Mysql, Sqlite.
 
-## About Me
 
-A brief description of who you are, your interest in development, and what you aim to achieve.
-
-## How to Reach Me
-
-- Email: your_email@example.com
-- LinkedIn: [Your Name on LinkedIn](linkedin_link)
 
 Feel free to explore my projects and reach out if you need more information!
