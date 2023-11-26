@@ -5,7 +5,7 @@ A brief description of who you are, your interest in development, and what you a
 ## How to Reach Me
 
 - Email: your_email@example.com
-- LinkedIn: [Andre Nascimento]([linkedin_link](https://www.linkedin.com/in/andre-nascimento-281bb225b/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION))
+- LinkedIn: [Andre Nascimento](https://www.linkedin.com/in/andre-nascimento-281bb225b/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 
 ## Featured Projects
 
