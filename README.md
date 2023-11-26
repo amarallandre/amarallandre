@@ -7,7 +7,7 @@ Welcome to my personal portfolio! Here, you'll find a collection of projects, sk
 ### Project 1: AppAgenda(Incomplete)
 It's a project that simulates an electronic diary. The language used is Node.js/React.
 
-[![Node.js](https://img.shields.io/badge/Node.js-10%25-brightgreen)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-React25-brightgreen)]
 
 [[Link to Project](project_link)](https://github.com/amarallandre/AppAgenda)
 
