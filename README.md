@@ -4,7 +4,8 @@ Hi, my name is Andre, i'm from Brazil and i live in Diadema/SP, here i talk a li
 
 My English level is more than intermediate, but I already have a little difficulty talking to other people, and for some words, I already need the translator.
 
-I have 4 years of experience in fast-food. I worked 1 year and a half at McDonald's and 2 years and a half at Burger King. I also worked in logistics, delivering dairy products throughout São Paulo, and as a general assistant in a printing company. There, I had to assist machine operators and in various areas of the factory. Currently, I am unemployed. My source of income is selling products on Mercado Livre. Regarding programming, I have been studying for about 3 years. My first contact with programming was around the age of 11, when my brother and I rewrote the codes of a game and put it online for a while. My goal is to enter the field as a back-end programmer.
+
+Hello, my name is André Nascimento. I'm seeking my first opportunity to work as a junior programmer. I've attended some bootcamps and worked on personal projects, such as a chatbot for Telegram using Python and the Telegram API, as well as projects in .NET using the MVC model. I'm familiar with languages like Python/Django, .NET/C#, ReactJS, Javascript, and CSS. All of my projects have been personal, and I don't have professional experience in the field yet. I'm always open to growth opportunities and ways to expand my knowledge.
 
 ## How to Reach Me
 
