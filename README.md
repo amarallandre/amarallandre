@@ -29,12 +29,12 @@ The intention here was to practice my CRUD skills and learn a bit of .NET MVC/C#
 
 [Link to Project](https://github.com/amarallandre/Jogo)
 
-### Project 3: repasse-de-mensagens (Complete)
+### Project 3: Chatbot (Complete)
 It's my first project. The objective here is to create a bot on Telegram that sends messages automatically. The language used is Python.
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link to Project](https://github.com/amarallandre/Jogo)
+[Link to Project]([https://github.com/amarallandre/Jogo](https://github.com/amarallandre/Chatbot/tree/main))
 
 ## Skills
 
