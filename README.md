@@ -34,7 +34,7 @@ It's my first project. The objective here is to create a bot on Telegram that se
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link to Project]([https://github.com/amarallandre/Jogo](https://github.com/amarallandre/Chatbot/tree/main))
+[Link to Project]((https://github.com/amarallandre/Chatbot/tree/main))
 
 ## Skills
 
