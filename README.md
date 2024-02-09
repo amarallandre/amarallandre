@@ -1,11 +1,10 @@
 ## About Me
 
-Hi, my name is Andre, i'm from Brazil and i live in Diadema/SP, here i talk a little about me.
 
-My English level is more than intermediate, but I already have a little difficulty talking to other people, and for some words, I already need the translator.
+My English level is more than intermediate, but I already have a little difficulty talking to other people, and for some words, I need the translator.
 
 
-Hello, my name is André Nascimento. I'm seeking my first opportunity to work as a junior programmer. I've attended some bootcamps and worked on personal projects, such as a chatbot for Telegram using Python and the Telegram API, as well as projects in .NET using the MVC model. I'm familiar with languages like Python/Django, .NET/C#, ReactJS, Javascript, and CSS. All of my projects have been personal, and I don't have professional experience in the field yet. I'm always open to growth opportunities and ways to expand my knowledge.
+Hello, my name is André Nascimento. I'm seeking my first opportunity to work as a junior programmer. I've attended some bootcamps and worked on personal projects, such as a chatbot for Telegram using Python and the Telegram API, as well as projects in .NET using the MVC model. I'm familiar with languages like Python/Django, .NET/C#, ReactJS, Javascript, and CSS. All of my projects is personal, and I don't have professional experience in the field yet. I'm always open to growth opportunities and ways to expand my knowledge.
 
 ## How to Reach Me
 
