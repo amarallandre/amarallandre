@@ -30,7 +30,7 @@ Olá, meu nome é André Nascimento. Estou em busca da minha primeira oportunida
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link to Project](https://github.com/amarallandre/mobileapp-python-kivy/tree/meu-projeto)
+[Link do Projeto](https://github.com/amarallandre/mobileapp-python-kivy/tree/meu-projeto)
 
 ## Skills
 
