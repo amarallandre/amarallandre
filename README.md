@@ -1,4 +1,4 @@
-## About Me
+## Sobre mim
 
 
 Olá, meu nome é André Nascimento. Estou em busca da minha primeira oportunidade de trabalhar como júnior na área de programação. Participei de alguns bootcamps e desenvolvi alguns projetos pessoais, como um chatbot para Telegram utilizando Python e API do Telegram e um portfolio utilizando Django, ele esta online na plataforma EC2 da aws. Estou familiarizado com Python e suas bibliotecas, Javascript e CSS, Como conhecimento adicional tenho a base da plataforma AWS e no Power BI. Todos os meus projetos são pessoais e não possuo experiência profissional na área. Sempre aberto a oportunidades de crescimento e formas de expandir meus conhecimentos.
