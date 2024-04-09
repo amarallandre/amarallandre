@@ -1,36 +1,36 @@
 ## About Me
 
 
-Hello, my name is André Nascimento. I'm seeking my first opportunity to work as a junior programmer. I've attended some bootcamps and worked on personal projects, such as a chatbot for Telegram using Python and the Telegram API, as well as projects in .NET using the MVC model. I'm familiar with languages Python(api, rpa and ELT/ETL), .NET/C#, ReactJS, Javascript, and CSS. I also have knowledges at the platforms AWS and powerBI. All of my projects is personal, and I don't have professional experience in the field yet. I'm always open to growth opportunities and ways to expand my knowledge.
+Olá, meu nome é André Nascimento. Estou em busca da minha primeira oportunidade de trabalhar como júnior na área de programação. Participei de alguns bootcamps e desenvolvi alguns projetos pessoais, como um chatbot para Telegram utilizando Python e API do Telegram e um portfolio utilizando Django, ele esta online na plataforma EC2 da aws. Estou familiarizado com Python e suas bibliotecas, Javascript e CSS, Como conhecimento adicional tenho a base da plataforma AWS e no Power BI. Todos os meus projetos são pessoais e não possuo experiência profissional na área. Sempre aberto a oportunidades de crescimento e formas de expandir meus conhecimentos.
 
-## How to Reach Me
+## Como me encontrar
 
 - Email: andrenascimentoo96@icloud.com
+- Celular: 11982672319
 - LinkedIn: [Andre Nascimento](https://www.linkedin.com/in/andre-nascimento-281bb225b/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 
-## Featured Projects
+## Projetos
 
-### Project 1: AppAgenda(Incomplete)
-It's a project that simulates an electronic diary. The language used is Node.js/React.
-
-![Node.js](https://img.shields.io/badge/Node.js-React-brightgreen)
-
-[Link to Project](https://github.com/amarallandre/AppAgenda)
-
-### Project 2: Jogo(Complete. Maybe?)
-The intention here was to practice my CRUD skills and learn a bit of .NET MVC/C#. I also utilized a significant amount of CSS and JavaScript, which allowed me to further practice front-end development.
-
-
-![ASP.NET](https://img.shields.io/badge/dotnet-C%23-brightgreen)
-
-[Link to Project](https://github.com/amarallandre/Jogo)
-
-### Project 3: Chatbot (Complete)
-It's my first project. The objective here is to create a bot on Telegram that sends messages automatically. The language used is Python.
+### Projeto 1: CHATBOT(PYTHON)
+  Criado um chatbot no telegram utilizando a linguagem python e a api do telegram.
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link to Project](https://github.com/amarallandre/Chatbot/)
+[Link do Projeto](https://github.com/amarallandre/Chatbot)
+
+### Projeto 2: OFICINA MECÂNICA(PYTHON)
+  Criado com o objetivo de simular o atendimendo a oficina mecanica, Faz um CRUD de dados tais, como agendamento e registro de veiculo.
+
+![Python](https://img.shields.io/badge/Python-brightgreen)
+
+[Link do Projeto](https://github.com/amarallandre/Oficina)
+
+### Projeto 3: SISTEMA DE GERENCIAMENTO PARA POSTO DE SAÚDE(PYTHON, KIVY, MYSQL)
+  Criado com o objetivo de simular o atendimento de um posto de saúde. Faz um CRUD de dados tais, como dados de pacientes e remédios com estoque de medicamentos consultas e mais.
+
+![Python](https://img.shields.io/badge/Python-brightgreen)
+
+[Link to Project](https://github.com/amarallandre/mobileapp-python-kivy/tree/meu-projeto)
 
 ## Skills
 
@@ -39,6 +39,3 @@ It's my first project. The objective here is to create a bot on Telegram that se
 - Frameworks: React 
 - Database: Mysql, Sqlite.
 
-
-
-Feel free to explore my projects and reach out if you need more information!
