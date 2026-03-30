@@ -1,7 +1,8 @@
 ## Sobre mim
 
 
-Olá, meu nome é André Nascimento. Estou em busca da minha primeira oportunidade de trabalhar como júnior na área de programação. Participei de alguns bootcamps e desenvolvi alguns projetos pessoais, como um chatbot para Telegram utilizando Python e API do Telegram e um portfolio utilizando Django, ele esta online na plataforma EC2 da aws. Estou familiarizado com Python e suas bibliotecas, Javascript e CSS, Como conhecimento adicional tenho a base da plataforma AWS e no Power BI. Todos os meus projetos são pessoais e não possuo experiência profissional na área. Sempre aberto a oportunidades de crescimento e formas de expandir meus conhecimentos.
+Olá, meu nome é André Nascimento. estou cursando engenharia da computação e em busca de estagio na área da programação. Participei de alguns bootcamps e desenvolvi alguns projetos pessoais, todos estão no meu github. Estou familiarizado com Python/Django, java, C# Javascript e CSS, Todos os meus projetos são pessoais e não possuo experiência profissional na área.
+
 
 ## Como me encontrar
 
@@ -11,19 +12,19 @@ Olá, meu nome é André Nascimento. Estou em busca da minha primeira oportunida
 
 ## Projetos
 
-### Projeto 1: CHATBOT(PYTHON)
-  Criado um chatbot no telegram utilizando a linguagem python e a api do telegram.
+### ProjetoTiny
+  Desenvolvido um sistema utilizando a api da olist que controla o valor de um item de acordo com a quantidade dele em estoque
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link do Projeto](https://github.com/amarallandre/Chatbot)
+[Link do Projeto](https://github.com/amarallandre/ProjetoTiny)
 
-### Projeto 2: OFICINA MECÂNICA(PYTHON)
-  Criado com o objetivo de simular o atendimendo a oficina mecanica, Faz um CRUD de dados tais, como agendamento e registro de veiculo.
+### ControleFinanceiro
+  Automacao que organiza e faz os calculos de uma tabela de vendas na plataforma amazon 
 
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-[Link do Projeto](https://github.com/amarallandre/Oficina)
+[Link do Projeto](https://github.com/amarallandre/ControleFinanceiro)
 
 ### Projeto 3: SISTEMA DE GERENCIAMENTO PARA POSTO DE SAÚDE(PYTHON, KIVY, MYSQL)
   Criado com o objetivo de simular o atendimento de um posto de saúde. Faz um CRUD de dados tais, como dados de pacientes e remédios com estoque de medicamentos consultas e mais.
